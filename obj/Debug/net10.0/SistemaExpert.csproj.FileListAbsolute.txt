@@ -1,0 +1,14 @@
+/home/zero/dotnet-code/faculdade/LabDotnet/SistemaExpert/bin/Debug/net10.0/SistemaExpert
+/home/zero/dotnet-code/faculdade/LabDotnet/SistemaExpert/bin/Debug/net10.0/SistemaExpert.deps.json
+/home/zero/dotnet-code/faculdade/LabDotnet/SistemaExpert/bin/Debug/net10.0/SistemaExpert.runtimeconfig.json
+/home/zero/dotnet-code/faculdade/LabDotnet/SistemaExpert/bin/Debug/net10.0/SistemaExpert.dll
+/home/zero/dotnet-code/faculdade/LabDotnet/SistemaExpert/bin/Debug/net10.0/SistemaExpert.pdb
+/home/zero/dotnet-code/faculdade/LabDotnet/SistemaExpert/obj/Debug/net10.0/SistemaExpert.GeneratedMSBuildEditorConfig.editorconfig
+/home/zero/dotnet-code/faculdade/LabDotnet/SistemaExpert/obj/Debug/net10.0/SistemaExpert.AssemblyInfoInputs.cache
+/home/zero/dotnet-code/faculdade/LabDotnet/SistemaExpert/obj/Debug/net10.0/SistemaExpert.AssemblyInfo.cs
+/home/zero/dotnet-code/faculdade/LabDotnet/SistemaExpert/obj/Debug/net10.0/SistemaExpert.csproj.CoreCompileInputs.cache
+/home/zero/dotnet-code/faculdade/LabDotnet/SistemaExpert/obj/Debug/net10.0/SistemaExpert.dll
+/home/zero/dotnet-code/faculdade/LabDotnet/SistemaExpert/obj/Debug/net10.0/refint/SistemaExpert.dll
+/home/zero/dotnet-code/faculdade/LabDotnet/SistemaExpert/obj/Debug/net10.0/SistemaExpert.pdb
+/home/zero/dotnet-code/faculdade/LabDotnet/SistemaExpert/obj/Debug/net10.0/SistemaExpert.genruntimeconfig.cache
+/home/zero/dotnet-code/faculdade/LabDotnet/SistemaExpert/obj/Debug/net10.0/ref/SistemaExpert.dll
