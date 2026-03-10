@@ -9,3 +9,8 @@ Arquivos que o .NET criou para mim:
 2. `SistemaExpert.csproj`: As configurações do meu projeto.
 
 <img width="922" height="483" alt="image" src="https://github.com/user-attachments/assets/e70b3ee2-6ece-48f1-8778-44f4214a631e" />
+
+
+Qual a diferença visual que você notou entre a pasta que você criou manualmente (mkdir) e a pasta que o comando 'dotnet new' criou?
+- Com dotnet new, é criado uma estrutura completa, e criado um projeto c#
+- Com mkdir e criado uma pasta vazia 
